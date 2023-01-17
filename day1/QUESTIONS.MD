@@ -5,6 +5,7 @@ With that said, it can also depend on the specific configuration of the network.
 
 NOTE: This topic seems to be all over the place at the moment. It doesn't seem anyone can agree on any one solid number.
 
+---
 
 2. What is the issue with the following code sample?
 ```
@@ -18,6 +19,7 @@ actor {
 
 `counter` has been declared as a constant (immutable), not a variable. An error will occur when trying to assign a new value.
 
+---
 
 3. What is the issue with the following code sample?
 ```
@@ -37,6 +39,7 @@ actor {
 
 `message` is declared as type 'Text' but is given a 'Nat' value, which is not allowed.
 
+---
 
 4. False or True: we can remove the keyword async for return argument of a query function since queries are faster to answer.
 
