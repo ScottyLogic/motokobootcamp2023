@@ -15,7 +15,8 @@ Node Machines: 16
 
 ---
 
-3. I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?
+3. I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?<br>
+
 Voting power is determined by these factors:
 - Principal: 1 ICP = 1 Vote
 - Lock up duration / Dissolved Delay: 6 months grants a 1.06x voting power bonus, and 8 years grants 2x. All other durations scale linearly between.
