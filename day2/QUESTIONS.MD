@@ -10,7 +10,7 @@
 
 2. What is the subnet of the canister with the id: mwrha-maaaa-aaaab-qabqq-cai? How \[many\] nodes are running this subnet?
 
-Subnet ID: pae4o-o6dxf-xki7q-ezclx-znyd6-fnk6w-vkv5z-5lfwh-xym2i-otrrw-fqe
+Subnet ID: pae4o-o6dxf-xki7q-ezclx-znyd6-fnk6w-vkv5z-5lfwh-xym2i-otrrw-fqe<br>
 Node Machines: 16
 
 ---
