@@ -17,7 +17,13 @@ Node Machines: 16
 
 3. I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?
 
-Invalid Neuron Configuration.  Dissolve delay can't be higher than staking period.
+10 * 1.06^(2/6) * 1.25 = 12.83
+
+- 1 ICP = 1 Vote
+- 6 months grants a 1.06x voting power bonus, and 8 years grants 2x. All other durations scale linearly between.
+- 4 years grants a 1.25x bonus, multiplicative with any other bonuses. All other durations between 0 seconds and 4 years scale lineraly between.
+
+[Invalid Neuron Configuration.  Dissolve delay can't be higher than staking period.](https://internetcomputer.org/docs/current/tokenomics/nns/nns-staking-voting-rewards/#voting-power)
 
 ---
 
