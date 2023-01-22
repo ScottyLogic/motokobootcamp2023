@@ -5,7 +5,7 @@ No. 4GB
 
 ## 2. How \[many\] accounts can a unique Principal own?
 
-2^32 = 4_294_967_296 accounts
+There are a lot of Accounts which could be generated for a Principal, because a 32-bit unsigned integer has a maximum value of 4,294,967,295.
 
 
 ## 3. Can we safely upgrade a canister from interface A to interface B?
