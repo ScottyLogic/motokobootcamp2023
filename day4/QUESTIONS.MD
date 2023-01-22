@@ -26,4 +26,4 @@ actor {
 }
 ```
 
-No
+Yes.
